@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html lang="pt-BR">
+  <head>
+    <title>“Lista 1 – Questão 4</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    
+  <h3><p>A semântica no HTML é importante porque melhora a acessibilidade, permitindo que tecnologias assistivas interpretem o conteúdo de forma correta.
+  Além disso, ajuda a otimizar para os motores de busca (SEO), melhorando o ranqueamento.
+  <br>
+  Além disso, um código semântico é mais fácil de ser lido e mantido, o que torna a navegação mais fácil para os usuários. Em suma, investir em semântica é crucial para torná-los acessíveis e eficientes.
+</h3></p>
+  
+  <h2>•Motivos da Importância da semântica em HTML5:</h2>
+  
+  <table border="10" cellpadding="20" bordercolor="0, 255, 255">
+  <tr>  
+  <td>• A semântica permite que leitores de tela e outras tecnologias assistivas compreendam melhor o conteúdo da página. Elementos como "header, nav, article e footer" ajudam a estruturar a informação, facilitando a navegação para usuários com deficiências visuais.</td>
+  <td>• Os motores de busca utilizam a semântica para captar o contexto e a relevância do conteúdo. Uma estrutura HTML semântica pode aprimorar o posicionamento da página nos resultados de busca, já que os algoritmos tendem a favorecer sites que usam adequadamente as tags semânticas.</td>
+  <td>• Interoperabilidade
+    Documentos HTML semânticos são mais facilmente interpretados por diversas plataformas e dispositivos. Com a variedade de dispositivos que acessam a web, é vital garantir que o conteúdo seja claro e bem estruturado..</td>
+  <td>• Estilo e Layout: Embora a semântica não esteja diretamente relacionada ao estilo, ela pode influenciar a maneira como você estiliza sua página. Elementos semânticos podem ser mais facilmente estilizados de maneira consistente, e a estrutura clara ajuda na organização do CSS.</td></tr>
+</table>
+
+
+  </body>
+  </html>
+  <head>
+  <style>
+
+	body{
+	 background-color:rgb(0, 0, 0);
+}	
+    /* referente ao Importância da Semântica em HTML5: */
+	h2 {
+    	 color: rgb(4, 82, 1);
+         font-family: Arial;
+         font-size: 150%;
+}
+    /* tudo dentro da table */
+	td {
+    	 color: rgb(80, 80, 80);
+         font-family: copperplate gothic;
+         font-size: 155%;
+}
+/* referente ao titulo */
+	p {
+	 color: rgb(80, 80, 80);
+	 font-family: Arial;
+	 font-size: 100%;
+}
+  </style>
+  </head>
