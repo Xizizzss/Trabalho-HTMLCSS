@@ -1,0 +1,122 @@
+!<!DOCTYPE HTML>
+<html lang="pt-BR">
+  <head>
+    <title>Lista 1 – Questão 5</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    
+ <center><h1> Países de cada continente </h1></center>
+    <br>
+    <center><p><h2>AMÉRICA DO SUL</h2></p>
+  <a href="https://pt.wikipedia.org/wiki/Brasil" target="_blank">
+  <h4>Brasil</h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Brasil" widht="200" height="200"><br></br>
+  </a>
+  
+  <a href="https://pt.wikipedia.org/wiki/Chile" target="_blank">
+  <h4>Chile</h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" alt="Chile" widht="200" height="200"><br></br>
+  </a>
+  
+  <a href="https://pt.wikipedia.org/wiki/Uruguai" target="_blank">
+  <h4>Uruguai</h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg" alt="Uruguai" widht="200" height="200"><br></br>
+  </a>
+  <hr>
+  <p><h2>AMÉRICA DO NORTE</h2></p>
+  <a href="https://pt.wikipedia.org/wiki/Estados_Unidos" target="_blank">
+  <h4>Estados Unidos da America</h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="Estados Unidos da America" widht="200" height="200"><br></br>
+  </a>
+  
+  <a href="https://pt.wikipedia.org/wiki/Canadá" target="_blank">
+  <h4>Canadá </h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg" alt="Canadá" widht="200" height="200"><br></br>
+  </a>
+  
+  <a href="https://pt.wikipedia.org/wiki/M%C3%A9xico" target="_blank">
+  <h4>México</h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1280px-Flag_of_Mexico.svg.png" alt="México" widht="200" height="200"><br></br>
+  </a>
+  <hr>
+  <p><h2>Ásia</h2></p>
+  <a href="https://pt.wikipedia.org/wiki/China" target="_blank">
+  <h4>China</h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China" widht="200" height="200"><br></br>
+  </a>
+  
+  <a href="https://pt.wikipedia.org/wiki/Japão" target="_blank">
+  <h4>Japão</h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japão" widht="200" height="200"><br></br>
+  </a>
+  
+  <a href="https://pt.wikipedia.org/wiki/Mongólia" target="_blank">
+  <h4>Mongólia</h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg" alt="Mongólia" widht="200" height="200"><br></br>
+  </a>
+  <hr>
+   <p><h2>EUROPA</h2></p>
+  
+  <a href="https://pt.wikipedia.org/wiki/Inglaterra" target="_blank">
+  <h4>Inglaterra </h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg" alt="Inglaterra" widht="200" height="200"><br></br>
+  </a>
+  
+  <a href="https://pt.wikipedia.org/wiki/Suécia" target="_blank">
+  <h4>Suécia</h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Suécia" widht="200" height="200"><br></br>
+  </a>
+  
+  <a href="https://pt.wikipedia.org/wiki/Noruega" target="_blank">
+  <h4>Noruega</h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/800px-Flag_of_Norway.svg.png" alt="Noruega" widht="200" height="200"><br></br>
+  </a>
+  <hr>
+   <p><h2>ÁFRICA</h2></p>
+   
+  <a href="https://pt.wikipedia.org/wiki/Nigéria" target="_blank">
+  <h4>Nigéria </h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" alt="Nigéria" widht="200" height="200"><br></br>
+  </a>
+   
+  <a href="https://pt.wikipedia.org/wiki/Madagáscar" target="_blank">
+  <h4>Madagascar</h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar" widht="200" height="200"><br></br>
+  </a>
+   
+  <a href="https://pt.wikipedia.org/wiki/República_Democrática_do_Congo" target="_blank">
+  <h4>República Democrática do Congo</h4>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg" alt="República Democrática do Congo" widht="200" height="200"><br></br>
+  </a> </center>
+  
+<style>
+    body {
+        background-color: black;
+    }
+
+    h1 {
+        color: white;
+        font-family: Arial;
+        font-size: 300%;
+    }
+
+    h2 {
+        color: rgb(111, 0, 255);
+        font-family: Arial;
+        font-size: 300%;
+    }
+
+    h4 {
+        color: rgb(255, 255, 255);
+        font-family: Arial;
+        font-size: 300%;
+    }
+    hr {
+        border: 10px solid rgb(132, 0, 255);
+        border-radius: 5px;
+}
+        
+</style>
+</body>
+</html>
