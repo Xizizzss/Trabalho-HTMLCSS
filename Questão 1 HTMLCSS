@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 – Questão 1”</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <h1>Porque quero conhecer a Itália</h1>
+    <hr>
+   <p>
+Trabalhar, morar e conhecer a Itália é uma experiência incomparável por diversas razões. O país oferece um ambiente profissional vibrante, especialmente nas áreas de moda, design e gastronomia, que são conhecidas por sua inovação e qualidade. 
+Morar na Itália significa imergir em um cenário cultural riquíssimo, repleto de história, arte e arquitetura deslumbrantes. Além disso, o estilo de vida italiano valoriza a qualidade, o equilíbrio e o prazer de viver, evidenciado pela famosa culinária local e pela importância das relações pessoais. 
+Conhecer a Itália é explorar uma riqueza de tradições e festivais que celebram a diversidade regional e a herança cultural, tornando cada dia uma nova descoberta e uma oportunidade para crescer pessoal e profissionalmente.
+   </p>
+   <hr>
+   <p> 
+    Referência:
+    <a href="https://chatgpt.com">chatgpt.com</a> 
+   </p>
+<style>
+body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+</style>
+</body>
+</html>
