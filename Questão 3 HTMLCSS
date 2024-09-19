@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>“Lista 1 - Questão 3</title>
+</head>
+<body>
+    
+    <h9>Server Side e Client Side.</h9>
+    <hr>
+  <h3><p>
+    •As linguagens Server-Side são linguagens que o servidor entende. Isso quer dizer que vai escrever um código onde o servidor vai processá-lo e então vai mandar para o seu navegador a resposta.
+    <hr>
+    <h4>•Aqui estão algumas características principais:</h4>
+    <hr>
+<h7>
+    • Processamento de Dados: O servidor manipula e processa dados antes de enviá-los ao cliente. Por exemplo, em um site de e-commerce, o servidor pode calcular o total do pedido.
+    <br>
+    <br>    
+    • Segurança: Como a lógica e os dados sensíveis estão no servidor, é mais fácil proteger informações e evitar que usuários mal-intencionados acessem dados críticos.
+    <br>
+    <br>
+    • Tecnologias Usadas: Linguagens de programação como PHP, Python, Ruby, Java e Node.js são comumente usadas para desenvolvimento do lado do servidor.
+    <br>
+    <br>
+    • Desempenho: Operações complexas podem ser mais eficientes no servidor, especialmente se o cliente não tiver hardware potente.
+    <br>
+    <br>
+    • Persistência de Dados: O servidor é responsável por interagir com bancos de dados, armazenando e recuperando informações conforme necessário.
+    <br>
+    <br>
+    • Em resumo, "server side" se refere a tudo o que acontece no servidor, focando na lógica e no processamento que não é visível diretamente para o usuário final.</h7></p>
+    <hr>
+  <h2>Exemplos:</h2>
+  
+ <h8>
+  <tr>  
+  <td>- PHP: usado principalmente para desenvolvimento web dinâmico.</td>
+  <br>
+  <td>- Node.js: uma plataforma JavaScript executada no servidor. Muitas vezes funciona com estruturas como Django ou Flask para criar APIs e renderizar páginas da web.</td>
+  <br>
+  <td>- Ruby: Popular no desenvolvimento web.</td>
+  <br>
+  <td>- ASP.NET: Usado para desenvolver aplicativos web em ambientes Microsoft.</td></tr>
+</h8>
+
+<p><h5>Client Side (Lado do Cliente):
+    A linguagem de cliente ou client-side scripting, é uma linguagem que é executada no lado cliente, ou seja, no computador do próprio usuário, e por isso é usada nas situações em que a linguagem server-side não tem alcance. 
+</h5>
+</p><h2>Exemplos:</h2>
+
+<h8>
+<tr>  
+<td>- JavaScript é a linguagem principal usada para manipulação de DOM e interação do usuário.
+Embora não seja uma linguagem de programação, é usada para estruturar conteúdo.</td>
+<br>
+<td>- CSS: usado para estilizar páginas e criar animações.</td></tr>
+</h8>
+<hr>
+<p><h6>Dito isto, temos que o Server Side: Processa dados no servidor, gerencia lógica de negócios e comunica-se com bancos de dados.Enquanto o Client Side: Lida com a interface e interação do usuário no navegador, utilizando HTML, CSS e JavaScript.
+
+ </h6></p>
+<hr> 
+  </body>
+  </html>
+  <head>
+   <style>
+
+	body{
+	    background-color:rgb(0, 0, 0);
+}	
+ /* referente aos "Exemplos" */
+	h2 {
+    	 color: rgb(0, 229, 255);
+         font-family: copperplate gothic;
+         font-size: 150%;
+}
+    /* referente a explicação server side */
+	p {
+	    color: rgb(255, 255, 255);
+	    font-family: Arial;
+	    font-size: 80%;
+    }
+    
+    h3 {
+        color: rgb(255, 255, 255);
+	    font-family: Arial;
+	    font-size: 150%;
+    }
+    /* "Aqui estao algumas..." */
+    h4 {
+        color:rgb(255, 255, 255);
+        font-family:Arial;
+        font-size: 200%
+    }
+     /* referente ao client side */
+    h5 {
+        color:rgb(255, 255, 255);
+        font-family:Arial;
+        font-size: 150%;
+}
+    /* referente ao basicamente, o lado faz todo... */
+    h6 {
+        color:rgb(255, 255, 255);
+        font-family:Arial;
+        font-size: 100%;
+    }
+        /* Processamento de Dados: O servidor manipula... */
+        h7 {
+        color:rgb(255, 255, 255);
+        font-family:Arial;
+        font-size: 130%;
+}
+    /* - PHP: usado principalmente para desenvolvimento... */
+    h8 {
+        color:rgb(255, 255, 255);
+        font-family:Arial;
+        font-size: 120%;
+    }
+    /* Server Side e Client Side. */
+    h9 {
+        color:rgb(141, 1, 255);
+        font-family:Arial;
+        font-size: 250%;
+    }
+</style>
+</head>
+</body>
+</html>
